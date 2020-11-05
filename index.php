@@ -26,9 +26,9 @@ in html
         </header>
         <hr/>
         <nav>
-            <a href="index.html" class="current-page">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
+            <a href="index.php" class="current-page">Home</a>
+            <a href="about.php">About</a>
+            <a href="contact.php">Contact</a>
         </nav>
         <br/>
         <main>
