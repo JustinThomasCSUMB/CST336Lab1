@@ -26,9 +26,9 @@ in html
         </header>
         <hr/>
         <nav>
-            <a href="index.html">Home</a>
-            <a href="about.html" class="current-page">About</a>
-            <a href="contact.html">Contact</a>
+            <a href="index.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="contact.php" class="current-page">Contact</a>
             <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
         </nav>
         <br/>
